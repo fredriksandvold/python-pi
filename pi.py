@@ -9,6 +9,10 @@ statements
 '''
 
 def pi(msg):
+
+
+
+    //comment3
     print(msg)
 
 pi("hello world")
