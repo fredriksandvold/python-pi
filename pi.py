@@ -2,7 +2,7 @@
 
 #print message
 
-//no longer need comments
+#no longer need comments
 
 def pi(msg):
     print(msg)
