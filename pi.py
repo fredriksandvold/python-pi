@@ -3,6 +3,10 @@
 #print message
 
 //comment out
+'''
+statements 2
+
+'''
 
 '''
 statements
