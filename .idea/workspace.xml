@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="420ca208-82b0-4d07-999b-c4943e43cd8c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pi.py" beforeDir="false" afterPath="$PROJECT_DIR$/pi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595911746900</updated>
       <workItem from="1595911757638" duration="1166000" />
-      <workItem from="1595915029856" duration="239000" />
+      <workItem from="1595915029856" duration="696000" />
     </task>
     <servers />
   </component>
