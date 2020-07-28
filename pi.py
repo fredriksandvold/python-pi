@@ -2,20 +2,13 @@
 
 #print message
 
-//comment out
-'''
-statements 2
-
-'''
-
-'''
-statements
-'''
+//no longer need comments
 
 def pi(msg):
-
-    //comment3
-    //comment2
     print(msg)
+
+def secondary():
+    print("New function")
+
 
 pi("hello world")
